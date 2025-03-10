@@ -90,7 +90,7 @@ Afterward, we go back into the Linux VM on the Azure portal to delete the inboun
 </p>
 <img src="https://i.imgur.com/ylUbqPv.jpg" height="80%" width="80%"/>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, we filter SSH traffic using Wireshark. We open the command prompt on the Windows VM and establish an SSH connection to the Linux VM using the command: ssh mamanatlab@10.0.0.5. When the command is executed, Wireshark displays the SSH traffic, allowing us to observe and analyze it in real time. When we’re done, we type “exit” to end the Linux SSH connection.
 </p>
 <br />
 
