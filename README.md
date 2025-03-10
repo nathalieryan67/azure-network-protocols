@@ -38,7 +38,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3qYhoNQ.png" height="80%" width="80%"/>
 </p>
 <p>
 First, we create two virtual machines (VMs) in the Azure portal. One VM uses a Windows 10 Pro image, while the other uses an Ubuntu (Linux) image. Each of the VMs are created with 2 vCPUs. During setup, we make sure that both VMs are attached to the same virtual network. We then use Remote Desktop (RDP) to access the Windows VM.
