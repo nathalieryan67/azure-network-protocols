@@ -78,10 +78,10 @@ We then go back to the Azure portal, to the Linux VM. We navigate to its network
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/r6f8x3v.jpg" height="80%" width="80%"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Afterward, we go back into the Linux VM on the Azure portal to delete the inbound port rule. This allows the ICMP traffic to resume unhindered between the two VMs. To stop the continuous pinging, we press Ctrl + C in PowerShell.
 </p>
 <br />
 
