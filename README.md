@@ -103,10 +103,10 @@ Then we filter DNS traffic in Wireshark. We start by setting Wireshark to displa
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/f6G4p9o.jpg" height="80%" width="80%"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Lastly, we filter for RDP traffic in Wireshark. The RDP traffic will appear continuously since we are using Remote Desktop Protocol to connect to our virtual machine. As such, we are provided with ample date for analysis.
 </p>
 <br />
 
